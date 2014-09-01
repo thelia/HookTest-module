@@ -2,6 +2,6 @@
     "name": "thelia/hooktest-module",
     "type": "thelia-module",
     "require": {
-        "thelia/installer": "*"
+        "thelia/installer": "dev-master"
     }
 }
