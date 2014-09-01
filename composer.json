@@ -3,5 +3,6 @@
     "type": "thelia-module",
     "require": {
         "thelia/installer": "dev-master"
-    }
+    },
+    "minimum-stability": "dev"
 }
