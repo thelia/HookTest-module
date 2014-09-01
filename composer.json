@@ -1,5 +1,5 @@
 {
-    "name": "thelia/HookTest-module",
+    "name": "thelia/hooktest-module",
     "type": "thelia-module",
     "require": {
         "thelia/installer": "*"
