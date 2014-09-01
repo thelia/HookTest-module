@@ -2,10 +2,9 @@
     "name": "thelia/hooktest-module",
     "type": "thelia-module",
     "require": {
-        "thelia/installer": "0.2"
+        "thelia/installer": "1.0"
     },
     "extra": {
         "installer-name": "HookTest"
-    },
-    "minimum-stability": "dev"
+    }
 }
